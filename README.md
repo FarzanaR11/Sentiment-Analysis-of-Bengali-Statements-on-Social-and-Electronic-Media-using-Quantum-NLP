@@ -33,7 +33,7 @@ Newspapers. Our goal is to develop a system that can accurately distinguish betw
 positive and negative results from Bengali News headlines/ articles, and Social Media
 comments through the tests.
 
-Understanding the market: Present and Future of QNLP-
+Understanding the Market: Present and Future of QNLP-
 
 By implementing the lambeq and bnlp toolkit which we have used in this current study,
 this development will be incredibly fast-paced for our project. By using various text
