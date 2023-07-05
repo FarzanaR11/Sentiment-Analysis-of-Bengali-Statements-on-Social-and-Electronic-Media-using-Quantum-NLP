@@ -32,3 +32,17 @@ for this project because there isn’t that much datasets of headlines for Benga
 Newspapers. Our goal is to develop a system that can accurately distinguish between
 positive and negative results from Bengali News headlines/ articles, and Social Media
 comments through the tests.
+
+Understanding the market: Present and Future of QNLP-
+
+By implementing the lambeq and bnlp toolkit which we have used in this current study,
+this development will be incredibly fast-paced for our project. By using various text
+classifiers, frameworks in python languages we can use positive, negative including all
+diverse feedbacks and influences from various social medias and electronic medias written
+in bengali language. One could also vary the computational model, for example, one
+could use Measurement-Based Quantum Computation (MBQC as the ability to transfer
+quantum states in unit time to accelerate addition ) instead of circuits[15]. Rather than
+being confined to single sentences, one could process larger text. We could work on
+other tasks besides question-answering, such as language generation, summarization, etc.
+Lastly, when hardware becomes more powerful we can simply scale up the size of the
+meaning spaces and complexity of the tasks which is clearly the overall objective.
