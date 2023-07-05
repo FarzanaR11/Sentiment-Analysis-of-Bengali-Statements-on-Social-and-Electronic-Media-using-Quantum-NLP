@@ -41,7 +41,7 @@ classifiers, frameworks in python languages we can use positive, negative includ
 diverse feedbacks and influences from various social medias and electronic medias written
 in bengali language. One could also vary the computational model, for example, one
 could use Measurement-Based Quantum Computation (MBQC as the ability to transfer
-quantum states in unit time to accelerate addition ) instead of circuits[15]. Rather than
+quantum states in unit time to accelerate addition ) instead of circuits. Rather than
 being confined to single sentences, one could process larger text. We could work on
 other tasks besides question-answering, such as language generation, summarization, etc.
 Lastly, when hardware becomes more powerful we can simply scale up the size of the
