@@ -1,4 +1,4 @@
-# Sentiment-Analysis-of-Bengali-Statements-on-Social-and-Electronic-Media-using-Quantum-NLP
+# Bengali Quantum NLP : Sentiment Analysis of Bengali Statements on Social and Electronic Media using Quantum NLP and Bengali NLP 
 
 Abstract
 
